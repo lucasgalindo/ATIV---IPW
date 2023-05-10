@@ -1,0 +1,47 @@
+.box{
+    width: 40px;
+    height: 40px;
+    background-color: gold;
+    border: 5px black solid;
+
+}
+
+
+.container{
+    display:flex;
+    flex-direction: column;
+    gap: 50px;
+    border: 10px dimgray dashed;
+    width: 380px;
+    align-items: center;
+}
+.red{
+    background-color: red;
+    width: 80px;
+    height: 80px;
+}
+.blue{
+    background-color: blue;
+    width: 160px;
+    height: 160px;
+}
+.green{
+    background-color: green;
+    width: 320px;
+    height: 320px;
+}
+.pink{
+    background-color: pink;
+    width: 160px;
+    height: 160px;    
+}
+.brown{
+    background-color: brown;
+    width: 80px;
+    height: 80px;
+}
+.magenta{
+    background-color: magenta;
+    width: 40px;
+    height: 40px;
+}
